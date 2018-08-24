@@ -1,0 +1,9 @@
+= Sample Input for Dexy
+
+This is only sample input for Dexy. A code snippet should appear in the content below this block. If it does not, then `dexy.txt` in the project root is specified incorrectly.
+
+.Listing 1-{counter:listing}
+[source,java]
+----
+include::./subdirectory/foo.java[]
+----
